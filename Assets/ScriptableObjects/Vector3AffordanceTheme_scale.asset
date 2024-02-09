@@ -45,64 +45,64 @@ MonoBehaviour:
     m_List:
     - stateName: disabled
       animationStateStartValue:
-        x: 0
-        y: 0
-        z: 0
+        x: 0.25
+        y: 0.25
+        z: 0.25
       animationStateEndValue:
-        x: 0
-        y: 0
-        z: 0
+        x: 0.25
+        y: 0.25
+        z: 0.25
     - stateName: idle
       animationStateStartValue:
-        x: 0
-        y: 0
-        z: 0
+        x: 0.25
+        y: 0.25
+        z: 0.25
       animationStateEndValue:
-        x: 0
-        y: 0
-        z: 0
+        x: 0.25
+        y: 0.25
+        z: 0.25
     - stateName: hovered
       animationStateStartValue:
-        x: 0
-        y: 0
-        z: 0
+        x: 0.5
+        y: 0.5
+        z: 0.5
       animationStateEndValue:
-        x: 0
-        y: 0
-        z: 0
+        x: 0.5
+        y: 0.5
+        z: 0.5
     - stateName: hoveredPriority
       animationStateStartValue:
-        x: 0
-        y: 0
-        z: 0
+        x: 0.25
+        y: 0.25
+        z: 0.25
       animationStateEndValue:
-        x: 0
-        y: 0
-        z: 0
+        x: 0.25
+        y: 0.25
+        z: 0.25
     - stateName: selected
       animationStateStartValue:
-        x: 0
-        y: 0
-        z: 0
+        x: 0.25
+        y: 0.25
+        z: 0.25
       animationStateEndValue:
-        x: 0
-        y: 0
-        z: 0
+        x: 0.25
+        y: 0.25
+        z: 0.25
     - stateName: activated
       animationStateStartValue:
-        x: 0
-        y: 0
-        z: 0
+        x: 0.25
+        y: 0.25
+        z: 0.25
       animationStateEndValue:
-        x: 0
-        y: 0
-        z: 0
+        x: 0.25
+        y: 0.25
+        z: 0.25
     - stateName: focused
       animationStateStartValue:
-        x: 0
-        y: 0
-        z: 0
+        x: 0.25
+        y: 0.25
+        z: 0.25
       animationStateEndValue:
-        x: 0
-        y: 0
-        z: 0
+        x: 0.25
+        y: 0.25
+        z: 0.25
