@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 740f51a1ac4b42088297287229057627, type: 3}
   m_Name: Teleport Activate
   m_EditorClassIdentifier: 
-  m_HandShape: {fileID: 11400000, guid: a833ee536fa12744c8f94dca1a2d7d80, type: 2}
+  m_HandShape: {fileID: 11400000, guid: 89ca1129670dcca49a172ea380a59a68, type: 2}
   m_RelativeOrientation:
     m_UserConditions:
     - m_HandAxis: 0
