@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
 
-public class DeckManager : MonoBehaviour
+public class GameManager : MonoBehaviour
 {
     public List<Card> deck = new List<Card>();
     // public Transform[] cardSlots;
